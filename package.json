@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/hjawad22/flight-log-api/issues"
   },
-  "homepage": "https://github.com/hjawad22/flight-log-api#readme"
+  "homepage": "https://github.com/hjawad22/flight-log-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "knex": "^3.1.0",
+    "pg": "^8.16.3"
+  }
 }
