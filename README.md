@@ -1,4 +1,4 @@
-# Flight Log API
+# FlightLog API
 
 A RESTful API for logging, tracking, and managing flight records.  
 Designed to support features such as flight history, aircraft details, and pilot logs.
@@ -12,7 +12,7 @@ Designed to support features such as flight history, aircraft details, and pilot
 
 
 ## Deployed Link
-[Flight Log API](https://flight-log-api.vercel.app/api/flights)  
+[FlightLog API](https://flight-log-api.vercel.app/api/flights)  
 
 ## Getting Started
 
